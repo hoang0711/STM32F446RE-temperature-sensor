@@ -1,0 +1,14 @@
+../Core/Src/main.c:66:6:delay_us	2
+../Core/Src/main.c:72:6:displayLCD_Temp	1
+../Core/Src/main.c:82:6:displayLCD_Rh	1
+../Core/Src/main.c:99:6:Set_GPIO_Input	1
+../Core/Src/main.c:108:6:Set_GPIO_Output	1
+../Core/Src/main.c:127:6:MCU_StartSignal	1
+../Core/Src/main.c:141:9:DHT11_CheckSignal	4
+../Core/Src/main.c:159:9:DHT11_ReadSignal	5
+../Core/Src/main.c:184:5:main	1
+../Core/Src/main.c:261:6:SystemClock_Config	3
+../Core/Src/main.c:308:13:MX_I2C1_Init	2
+../Core/Src/main.c:342:13:MX_TIM6_Init	3
+../Core/Src/main.c:380:13:MX_GPIO_Init	1
+../Core/Src/main.c:415:6:Error_Handler	1
